@@ -2,3 +2,4 @@
 vshaurme/static/.DS_Store
 .DS_Store
 .vscode
+*.sqlite3
