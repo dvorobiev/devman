@@ -1,5 +1,0 @@
-json.contact.email = "mail@tomnomnom.com";
-json.contact.twitter = "@TomNomNom";
---
-json.likes[2] = "meat";
-json.name = "Tom";
